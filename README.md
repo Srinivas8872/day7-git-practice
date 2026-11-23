@@ -1,3 +1,3 @@
 # day7-git-practice
 
-About: Version A - practice repo for Day 7.
+About: Version B - practice repo for Day 7.
